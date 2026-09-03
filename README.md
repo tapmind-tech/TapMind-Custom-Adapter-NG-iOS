@@ -1,0 +1,1 @@
+# TapMind-NG-Custom-Adapter
